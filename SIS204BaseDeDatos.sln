@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIS204BaseDeDatos", "SIS204BaseDeDatos\SIS204BaseDeDatos.csproj", "{09D63C6E-1C9C-4B39-831F-44BFF5C256FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D63C6E-1C9C-4B39-831F-44BFF5C256FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D63C6E-1C9C-4B39-831F-44BFF5C256FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D63C6E-1C9C-4B39-831F-44BFF5C256FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D63C6E-1C9C-4B39-831F-44BFF5C256FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECFDF951-6ADF-400F-8E8F-66A7061DC57C}
+	EndGlobalSection
+EndGlobal
